@@ -4,7 +4,7 @@
     { "title": "RCX V6.3", "Descripcion": "Se añadio la pestañas Actualizaciones, la cual te permitira ver cuantas Actualizaciones a lo largo del tiempo , ha tenido RCX.", "Largo": "No", "Tipo": "Actualizacion"},
     { "title": "RCX V6.2", "Descripcion": "Se añadio el GameHubPersonalizado, el cual te permite Agregar tus propios Scripts, Imagenes Etc...", "Largo": "No", "Tipo": "Actualizacion"},
     { "title": "RCX V6.1", "Descripcion": "Se añadio KRNL Bypasser, ahora puedes conseguir la key de krnl mucho mas rapido que antes.", "Largo": "No", "Tipo": "[+ Krnl Bypass]"},
-    { "title": "RCX V6", "Descripcion": "RCX se ha cambiado a WPF, ahora traera mejores animaciones, mas fluidez y muchas mas cosas", "Largo": "Si", "Tipo": "Cambio Drastico"},
+    { "title": "RCX V6", "Descripcion": "RCX se ha cambiado a WPF, ahora traera mejores animaciones, mas fluidez y muchas mas cosas", "Largo": "No", "Tipo": "Cambio Drastico"},
 
 ],
 }
