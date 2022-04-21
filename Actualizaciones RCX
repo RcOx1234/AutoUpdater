@@ -1,6 +1,8 @@
 {
   "Actualizaciones": 
 [
+
+    { "title": "RCX V6.6", "Descripcion": "Se Añadio la pestaña de Desarrolladores, con la cual podras saber cuantos desarrolladores, o afiliados hay en RCX, tambien se añadio la opcion de cambiar el tipo de Inyeccion De WRD, la cual te permitira, usar la antigua inyeccion de WRD y la nueva si asi lo deseas, se cambio de lugar el agregador del gamehubps para ver mejor los scripts.", "Largo": "Si", "Tipo": "Actualizacion"},
     { "title": "RCX V6.5", "Descripcion": "Se añadio la funcionen de Previzualizar un script del GamehubPS, el cual nos permitira, saber si el script que vamos agregar, esta bien o no, tambien se cambio de lugar el Json Converter, al GamehubPS", "Largo": "Si", "Tipo": "Actualizacion"},
     { "title": "RCX V6.4", "Descripcion": "Se Remodelo el diseño del executor..", "Largo": "No", "Tipo": "Mejora"},
     { "title": "RCX V6.3", "Descripcion": "Se añadio la pestañas Actualizaciones, la cual te permitira ver cuantas Actualizaciones a lo largo del tiempo , ha tenido RCX.", "Largo": "No", "Tipo": "Actualizacion"},
